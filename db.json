@@ -1,0 +1,22 @@
+{
+  "Bookingdetails": [
+    {
+      "id": "eedb",
+      "email": "hello@gmail.com",
+      "service": "car ",
+      "selectedDatestring": "\"2024-02-05"
+    },
+    {
+      "id": "70a7",
+      "email": "time@gmail.com",
+      "service": "Bike wash",
+      "selectedDatestring": "\"2024-02-05"
+    },
+    {
+      "id": "2b33",
+      "email": "mahadarisandeep@gmail.com",
+      "service": "cardent removal",
+      "selectedDatestring": "\"2024-02-07"
+    }
+  ]
+}
